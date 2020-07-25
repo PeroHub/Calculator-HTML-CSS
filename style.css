@@ -1,0 +1,297 @@
+
+
+.main-container{
+    background-color: #092532;
+    width: 570px;
+    height: 500px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: relative;
+    margin: 100px auto;
+    
+    
+}
+
+.screen{
+    background-color: white;
+    border: 1px solid gray;
+    width: 560px;
+    height: 100px;
+    margin: 5px auto 0 5px;
+    
+}
+
+.Bracket{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+}
+
+p {
+    padding-bottom: 30px;
+    text-align: center;
+    margin-bottom: 10px auto 0 5px;
+    position: absolute;
+    left: 20px;
+    top: 1px;
+    right: 20px;
+}
+
+.Bra{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 140px;
+    bottom: 70px;
+ 
+}
+
+.percentage{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 280px;
+    bottom: 140px;
+
+}
+
+.AC{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 420px;
+    bottom: 210px;
+    
+}
+
+.seven{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    bottom: 210px;
+
+}
+
+.eight{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 140px;
+    bottom: 280px;
+
+}
+
+.nine{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 280px;
+    bottom: 350px;
+
+}
+
+.divide{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 420px;
+    bottom: 420px;
+
+}
+
+.four{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    bottom: 420px;
+
+}
+
+.five{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 140px;
+    bottom: 490px;
+
+}
+
+.six{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 280px;
+    bottom: 560px;
+
+}
+
+.multiply{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 420px;
+    bottom: 630px;
+
+}
+
+.one{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    bottom: 630px;
+
+}
+
+.two{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 140px;
+    bottom: 700px;
+
+}
+
+.three{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 280px;
+    bottom: 770px;
+
+}
+
+
+.subtraction{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 420px;
+    bottom: 840px;
+
+}
+
+.zero{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    bottom: 840px;
+
+}
+
+.dot{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 140px;
+    bottom: 910px;
+    font-weight: bold;
+
+}
+
+.equal{
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 280px;
+    bottom: 980px;
+
+}
+
+.plus {
+    background-color: white;
+    border: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    
+    margin: 20px auto 0 25px;
+    position: relative;
+    left: 420px;
+    bottom: 1050px;
+
+}
+
+.hover:hover{
+    background-color: gray;
+}
+
+.hover{
+    background-color: #092532;
+    color: white;
+}
+
